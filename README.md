@@ -2,7 +2,7 @@
 
 UnityEngine のいくつかの API の静的プロパティの情報を JSON 形式で取得できるクラス
 
-# 使用例
+## 使用例
 
 ```cs
 using Kogane;

@@ -1,4 +1,4 @@
-# UniJsonUnityEngine
+# Kogane Json Unity Engine
 
 UnityEngine のいくつかの API の静的プロパティの情報を JSON 形式で取得できるクラス
 
